@@ -1,7 +1,24 @@
 .choresText {
-   color: black;
+   color: rgb(223, 22, 4);
+   font-style: italic;
+   text-align: left;
 }
 
+
 .choresHeading {
-   color: black;
+   text-align: left;
+   color: rgb(55, 0, 255);
+   font-size: x-large;
+   text-decoration: underline;
 }
+
+
+.div{
+   height: 200px;
+   background-color: #cccccc;
+   background-image: linear-gradient(rgb(245, 29, 29), rgb(232, 232, 88), rgb(98, 247, 98));
+   border-style: dashed;
+   width: 100%;
+   height: auto;
+}
+

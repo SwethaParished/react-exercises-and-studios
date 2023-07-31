@@ -1,0 +1,23 @@
+.hobbiesHeading{
+    text-align: left;
+    color: black;
+    font-size: x-large;
+ }
+
+.pattern{
+    border-style: groove;
+    background: radial-gradient(#4f46e4 15%, transparent 6%), repeating-linear-gradient(0deg, transparent 6%, #ffffff 5%, #ffffff 9%, transparent 10%), linear-gradient(45deg, transparent 49%, #4f46e4 49%, #4f46e4 51%, transparent 51%), linear-gradient(-45deg, transparent 49%, #4f46e4 49%, #4f46e4 51%, transparent 51%);
+    background-size: 5em 5em;
+    background-color: #ffffff;
+    opacity: 0.9
+ }
+
+ .hobbiesText {
+    color: crimson;
+    text-align: left;
+ }
+
+ .listAlign{
+   text-align: left;
+ }
+ 

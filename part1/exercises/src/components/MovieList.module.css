@@ -1,7 +1,14 @@
 .movieText {
-   color: black;
+   color: green;
+   text-align: left;
 }
 
 .movieHeading {
    color: black;
+   text-align: left;
+   font-size: large;
+}
+
+.div{
+   border-style:double;
 }

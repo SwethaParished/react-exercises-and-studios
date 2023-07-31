@@ -39,5 +39,6 @@
 
 .similarComponents {
   display:flex;
-justify-content:space-between;
+  justify-content:first baseline;
+  padding: 1em;
 }
